@@ -20,5 +20,10 @@
 * dlib
 * imutils
 
+# useful links
+
+* https://support.apple.com/en-us/HT208108
+* https://machinelearning.apple.com/2017/11/16/face-detection.html
+* https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d
 
 
