@@ -1,8 +1,11 @@
 # facial_spoofing_smallub
 
 # contributors
-* **Dennis Fedorishin** - [denfed](https://github.com/denfed)
+* Liam Christie
+* Kyle Mancuso
 * **Alexander Stone** - [awstone](https://github.com/awstone)
+* **Dennis Fedorishin** - [denfed](https://github.com/denfed)
+* Philip Schneider
 
 # dependencies
 
