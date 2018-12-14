@@ -1,5 +1,4 @@
 # facial_spoofing_smallub
-Code and resources for UB
 
 # contributors
-Dennis Fedorishin - 
+**Dennis Fedorishin** - [denfed](https://github.com/denfed)
