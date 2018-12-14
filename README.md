@@ -6,6 +6,16 @@
 
 # dependencies
 
-## face_demo_gui
+### face_demo_gui
+
+* Python 2.7
+* Python PyQt4
+* cPickle
+* cv2
+* numpy
+* Pillow
+* dlib
+* imutils
+
 
 
