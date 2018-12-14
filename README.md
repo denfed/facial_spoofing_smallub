@@ -2,3 +2,4 @@
 
 # contributors
 **Dennis Fedorishin** - [denfed](https://github.com/denfed)
+**Alexander Stone** - [awstone](https://github.com/awstone)
